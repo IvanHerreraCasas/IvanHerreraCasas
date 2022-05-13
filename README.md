@@ -5,7 +5,7 @@
 I'm a physics student and self-taught Flutter developer.
 
 -  🔭 I’m currently working on my personal project [Flutter planner](https://github.com/IvanHerreraCasas/flutter_planner)
-- ☕ I’m learning quantum physics and everything about Flutter.
+- 🤓 I’m learning quantum physics and everything about Flutter.
 - 🧑‍💻 I'm currently looking for an internship as a flutter developer.
 - 📫 How to reach me:
   - Email: ivanhc.pp@gmail.com
