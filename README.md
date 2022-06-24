@@ -12,7 +12,3 @@ I'm a physics student and self-taught Flutter developer.
   - Twitter: [@ivanhc_pp](https://twitter.com/ivanhc_pp)
   - Discord: Ivan-Herrera#1666
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
-<p align="center">
-    <img alt="Fun fact gif" src="fun_fact.gif">
-</p>
