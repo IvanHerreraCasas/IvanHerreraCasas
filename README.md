@@ -10,5 +10,4 @@ I'm a physics student and self-taught Flutter developer.
 - 📫 How to reach me:
   - Email: ivanhc.pp@gmail.com
   - Twitter: [@ivanhc_pp](https://twitter.com/ivanhc_pp)
-  - Discord: Ivan-Herrera#1666
 - 😄 Pronouns: he/him
